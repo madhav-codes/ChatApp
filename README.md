@@ -1,7 +1,4 @@
-## CHAT APP using MERN stack and SOCKET.IO 🤠
-
-- Visit <https://react-chat-vars.herokuapp.com/>
-
+## CHAT APP using MERN stack and SOCKET.IO 
 ---
 
 ### Features
@@ -48,10 +45,6 @@
 ### Search User
 
 ## ![Gif](./screenshots/9.png)
-
-### Your profile
-
-## ![Gif](./screenshots/10.png)
 
 ### Create Group
 
